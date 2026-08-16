@@ -1,0 +1,21 @@
+{
+  "name": "s1",
+  "version": "1.0.0",
+  "description": "Search the live web, read pages, find news, discover site links, and explore trending topics through Search1API.",
+  "author": {
+    "name": "Search1API",
+    "url": "https://github.com/superagents-lab"
+  },
+  "homepage": "https://www.search1api.com/docs",
+  "repository": "https://github.com/superagents-lab/droid-s1",
+  "license": "MIT",
+  "keywords": [
+    "search1api",
+    "s1",
+    "web research",
+    "mcp",
+    "search",
+    "news",
+    "crawl"
+  ]
+}

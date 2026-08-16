@@ -1,0 +1,27 @@
+{
+  "name": "superagents-lab",
+  "description": "Search1API plugins for live web research.",
+  "owner": {
+    "name": "Search1API",
+    "url": "https://github.com/superagents-lab"
+  },
+  "plugins": [
+    {
+      "name": "s1",
+      "source": "./",
+      "description": "Search the live web, read pages, find news, discover site links, and explore trending topics through Search1API.",
+      "category": "productivity",
+      "homepage": "https://www.search1api.com/docs",
+      "keywords": [
+        "search1api",
+        "s1",
+        "web research"
+      ],
+      "domains": [
+        "search1api.com",
+        "www.search1api.com",
+        "mcp.search1api.com"
+      ]
+    }
+  ]
+}
