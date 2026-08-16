@@ -4,6 +4,8 @@ Live web search, page retrieval, news, sitemap discovery, and trending topics
 for [Factory Droid](https://docs.factory.ai) through Search1API's hosted MCP
 server and research skill.
 
+![Search1API running in Factory Droid](assets/droid-s1.png)
+
 ## Install
 
 Install the plugin from this repository as a marketplace:
