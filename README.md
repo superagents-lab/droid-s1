@@ -10,7 +10,7 @@ Install the plugin from this repository as a marketplace:
 
 ```bash
 droid plugin marketplace add https://github.com/superagents-lab/droid-s1
-droid plugin install s1@superagents-lab
+droid plugin install s1@droid-s1
 ```
 
 Or browse and install interactively:
@@ -20,7 +20,7 @@ droid plugin marketplace add https://github.com/superagents-lab/droid-s1
 /plugins
 ```
 
-Then look for **s1** under the **superagents-lab** marketplace.
+Then look for **s1** under the **droid-s1** marketplace.
 
 ## Authentication
 
@@ -53,7 +53,7 @@ research.
 
 ```bash
 droid plugin marketplace add ./droid-s1
-droid plugin install s1@superagents-lab --scope user
+droid plugin install s1@droid-s1 --scope user
 droid plugin list --scope user
 ```
 
